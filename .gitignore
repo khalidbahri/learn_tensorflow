@@ -1,0 +1,9 @@
+*.h5
+*-checkpoint.ipynb
+.idea/
+*.xml
+*.iml
+*.tsv
+Untitled*.ipynb
+3. NLP/Coursera/Extra/
+5. Excercises/
